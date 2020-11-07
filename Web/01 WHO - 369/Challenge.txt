@@ -1,0 +1,15 @@
+WHO
+369
+Pada masa pandemi, sistem informasi memegang peran yang krusial. WHO harus selalu menyediakan informasi terkini terkait COVID-19 yang dapat diakses dengan mudah oleh semua orang.
+
+Website berikut adalah sebuah web yang dapat digunakan untuk melakukan pendaftaran online event seperti webinar atau meeting yang diadakan oleh WHO. Beberapa meeting adalah teleconference meeting rahasia yang hanya dapat dihadiri oleh orang tertentu.
+
+https://who.web.cyber.jawara.systems/
+
+Ada sebuah emergency meeting yang dijadwalkan pada tanggal 17 Oktober. Daftar peserta meeting ini adalah rahasia. Flag pada soal ini adalah nama RSVP guest pertama pada meeting tersebut.
+
+Web ini dibuat menggunakan WordPress. Versi WordPress, tema, dan plugin yang dipakai selalu diupdate ke versi terbaru.
+
+Hint: Anda mungkin harus mencari zero day vulnerability.
+
+Problem setter: farisv

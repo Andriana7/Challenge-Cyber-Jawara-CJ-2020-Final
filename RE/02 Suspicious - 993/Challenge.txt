@@ -1,0 +1,13 @@
+Suspicious
+993
+Suatu hari kami mengidentifikasi ada port yang tiba-tiba terbuka di server kami. Setelah ditelusuri, program yang membuka port tersebut adalah sebuah binary yang mencurigakan. Kemungkinan besar binary ini adalah malware yang digunakan sebagai backdoor.
+
+Program ini sendiri dapat menerima HTTP request dengan baik. Berikut adalah alamat server kami.
+
+http://1337.cyber.jawara.systems:5522
+
+Dapatkah Anda menganalisis apa yang sebenarnya dilakukan program ini?
+
+https://drive.google.com/file/d/1ko3SGiV8brx4N5APuWkdD8SqsL5U4Rqj/view?usp=sharing
+
+Problem setter: farisv

@@ -1,0 +1,11 @@
+COVID-19 Statistics
+789
+Hingga 17 Oktober 2020, ada hampir 40 juta kasus COVID-19 yang tercatat di seluruh dunia. Jumlah ini dianggap lebih sedikit dari jumlah kasus sebenarnya karena banyak kasus asymptomatic yang tidak teridentifikasi.
+
+Mengawasi pergerakan statistik COVID-19 sangatlah penting. Keamanan website yang menyediakan data tersebut juga harus dijaga.
+
+https://covid19-statistics.web.cyber.jawara.systems/
+
+https://drive.google.com/file/d/1cC0Z_RRotU4g-MszS1BPsSFLAF5iAzNv/view?usp=sharing
+
+Problem setter: visat

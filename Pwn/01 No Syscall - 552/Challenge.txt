@@ -1,0 +1,7 @@
+No Syscall
+552
+Mengeksekusi shellcode untuk mengontrol flow suatu program melalui exploit memanglah menyenangkan. Tapi, apa jadinya kalau ada sandbox/jail yang membatasi eksekusi sehingga tidak ada syscall yang sama sekali bisa dipakai?
+
+nc 1337.cyber.jawara.systems 2001
+
+Problem setter: farisv

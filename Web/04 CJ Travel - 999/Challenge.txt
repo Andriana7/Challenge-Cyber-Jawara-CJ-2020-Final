@@ -1,0 +1,14 @@
+CJ Travel
+999
+Pandemi COVID-19 sangat berdampak pada OTA (Online Travel Agent). Ada pembatasan pergerakan di mana-mana sehingga penjualan tiket pesawat dan hotel menurun drastis.
+
+Untuk tetap bertahan dan memberikan pengalaman refreshing pada pengguna, hotel staycation bisa menjadi alternatif campaign atau promosi yang dapat dilakukan selama pandemi.
+
+Planning a staycation? We got you!
+
+https://cj-travel.web.cyber.jawara.systems/
+
+Hint:
+
+Service dijalankan di atas GCP dan flag-nya ada di Google Cloud Storage Bucket
+Problem setter: visat & farisv

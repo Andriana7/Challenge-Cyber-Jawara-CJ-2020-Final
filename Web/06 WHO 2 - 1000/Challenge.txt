@@ -1,0 +1,10 @@
+WHO 2
+1000
+Karena ternyata nama tamu rahasia emergency meeting dapat dilihat oleh banyak orang, admin situs WHO memutuskan untuk menyimpan nama tamu lain yang super rahasia pada tabel wp_secretguest.
+
+https://who.web.cyber.jawara.systems/
+
+Hint:
+
+Jika blind SQL injection tidak stabil pada website, ada zero day SQL injection lain yang tanpa perlu bruteforce :)
+Problem setter: farisv

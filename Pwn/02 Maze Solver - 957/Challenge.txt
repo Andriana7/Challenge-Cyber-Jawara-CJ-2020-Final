@@ -1,0 +1,15 @@
+Maze Solver
+957
+
+Mencari jalan keluar dari sebuah labirin adalah masalah klasik dalam teori "Searching" pada computer science. Biasanya mahasiswa tingkat awal belajar untuk membuat algoritmanya.
+
+Karena dibuat oleh mahasiswa yang baru belajar, program maze solver bisa saja memiliki bug.
+
+Apakah bug di program berikut dapat dipakai untuk mengontrol eksekusi?
+
+nc 1337.cyber.jawara.systems 2002
+
+Program berjalan di atas Docker dengan ubuntu:latest. Flag berada di /flag.txt.
+
+Problem setter: farisv
+

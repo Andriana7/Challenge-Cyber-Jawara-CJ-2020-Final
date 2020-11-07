@@ -1,0 +1,14 @@
+Tic Tac Toe
+1000
+Pada masa pembatasan sosial, waktu sehari-hari dapat dihabiskan dengan belajar hal baru. Salah satu contohnya adalah belajar membuat AI.
+
+Seseorang mempublikasikan AI miliknya yang dirancang untuk bermain Tic Tac Toe.
+
+https://tictactoe.web.cyber.jawara.systems/
+
+Saat ini, AI tersebut sedang berada pada learning phase. Interaksi yang dilakukan pengguna dapat dicatat dan dilaporkan untuk dipelajari AI guna merancang strategi terbaik.
+
+Hint:
+
+XSS
+Problem setter: visat

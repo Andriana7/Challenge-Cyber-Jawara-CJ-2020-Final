@@ -1,0 +1,15 @@
+Sorting Game
+993
+Permainan ini memiliki peraturan sebagai berikut:
+
+Sistem akan meng-generate 32 bilangan positif secara acak
+Anda dan bot akan bergantian mengganti satu bilangan tiap giliran
+Anda hanya dapat menggunakan bilangan positif
+Permainan berakhir ketika seluruh bilangan sudah terurut secara menaik
+Pemenang adalah pemain yang lebih dahulu membuat seluruh bilangan menjadi terurut
+nc 1337.cyber.jawara.systems 2003
+
+Program berjalan di atas Docker dengan ubuntu:latest. Flag berada di /flag.txt.
+
+Problem setter: farisv
+

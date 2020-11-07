@@ -1,0 +1,9 @@
+Lab Virus
+957
+Sistem sederhana untuk menyimpan kode genetik virus. Hati-hati dalam menggunakannya. Beberapa virus mungkin rahasia, jangan sampai tersebar.
+
+nc 1337.cyber.jawara.systems 2004
+
+Program berjalan di atas Docker dengan ubuntu:latest. Flag berada di /flag.txt.
+
+Problem setter: farisv

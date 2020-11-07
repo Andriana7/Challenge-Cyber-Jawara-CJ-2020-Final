@@ -1,0 +1,11 @@
+Toko Masker 4
+495
+Satu bulan setelah menerima laporan mengenai celah yang ada pada toko masker online miliknya, pemilik e-commerce tersebut meminta Anda untuk melakukan vulnerability assessment kembali. Kali ini, ia yakin bahwa sudah tidak ada business logic flaw lagi.
+
+Source code api.py yang telah diperbaiki dapat diunduh pada lampiran.
+
+Tentu saja. tidak ada sistem yang 100% aman. Dapatkan flag dari website berikut dengan membeli 100 buah makser N99.
+
+https://tokomasker4.web.cyber.jawara.systems/
+
+Problem setter: farisv
